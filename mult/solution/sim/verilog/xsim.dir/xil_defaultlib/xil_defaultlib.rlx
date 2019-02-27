@@ -1,8 +1,0 @@
-0.6
-2018.1
-Apr  4 2018
-18:43:17
-/home/aatit/gitrepos/mult/solution/sim/verilog/AESL_axi_slave_AXILiteS.v,1551279041,systemVerilog,,,,AESL_axi_slave_AXILiteS,/home/aatit/Xilinx/Vivado/2018.1/data/xsim/ip/xsim_ip.ini,axi_protocol_checker_v1_1_12;axi_protocol_checker_v1_1_13;axis_protocol_checker_v1_1_11;axis_protocol_checker_v1_1_12;ieee_proposed=./ieee_proposed;smartconnect_v1_0;unisims_ver;xil_defaultlib,,,,,,
-/home/aatit/gitrepos/mult/solution/sim/verilog/mult.autotb.v,1551279042,systemVerilog,,,,apatb_mult_top,/home/aatit/Xilinx/Vivado/2018.1/data/xsim/ip/xsim_ip.ini,axi_protocol_checker_v1_1_12;axi_protocol_checker_v1_1_13;axis_protocol_checker_v1_1_11;axis_protocol_checker_v1_1_12;ieee_proposed=./ieee_proposed;smartconnect_v1_0;unisims_ver;xil_defaultlib,,,,,,
-/home/aatit/gitrepos/mult/solution/sim/verilog/mult.v,1551279029,systemVerilog,,,,mult,/home/aatit/Xilinx/Vivado/2018.1/data/xsim/ip/xsim_ip.ini,axi_protocol_checker_v1_1_12;axi_protocol_checker_v1_1_13;axis_protocol_checker_v1_1_11;axis_protocol_checker_v1_1_12;ieee_proposed=./ieee_proposed;smartconnect_v1_0;unisims_ver;xil_defaultlib,,,,,,
-/home/aatit/gitrepos/mult/solution/sim/verilog/mult_AXILiteS_s_axi.v,1551279030,systemVerilog,,,,mult_AXILiteS_s_axi,/home/aatit/Xilinx/Vivado/2018.1/data/xsim/ip/xsim_ip.ini,axi_protocol_checker_v1_1_12;axi_protocol_checker_v1_1_13;axis_protocol_checker_v1_1_11;axis_protocol_checker_v1_1_12;ieee_proposed=./ieee_proposed;smartconnect_v1_0;unisims_ver;xil_defaultlib,,,,,,

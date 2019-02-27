@@ -1,0 +1,19 @@
+#Vivado junk files
+*.app
+*.log
+*.jou
+*.aps
+*.json
+*.directive
+*.rpt
+*.exe
+*.sh
+*.rules
+*.mk
+*.sh
+*.o
+*.d
+*.rules
+*.xml
+*.zip
+*.xdc
